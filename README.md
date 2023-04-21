@@ -1,6 +1,6 @@
 # Happy_Birthday
 
-## To View : [Link](http://127.0.0.1:5500/index.html)
+## To View : [Link](https://benevolent-malasada-55882f.netlify.app/)
 
 ![happy-birthday-hbd](https://user-images.githubusercontent.com/95679078/233046233-d6fcad92-2fa5-44b7-a355-8d65787faa24.gif)
 
